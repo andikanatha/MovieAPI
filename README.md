@@ -1,9 +1,9 @@
-## Screenshots
+<!-- ## Screenshots
 
 <p float="left">
   <img src="" width="350">
    <img src="" width="350">
-</p>
+</p> -->
 
 - All you need is here:
 
